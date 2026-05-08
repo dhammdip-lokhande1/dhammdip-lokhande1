@@ -12,8 +12,8 @@
 <br/>
 
 <!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=dhammdiplokhande1595&style=flat-square&color=7C3AED&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/dhammdiplokhande1595?style=flat-square&color=7C3AED&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Dhammdip-Lokhande1&style=flat-square&color=7C3AED&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Dhammdip-Lokhande1?style=flat-square&color=7C3AED&label=Followers)
 
 </div>
 
@@ -76,7 +76,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=dhammdiplokhande1595&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=Dhammdip-Lokhande1&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -86,7 +86,7 @@ me.say_hi()
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dhammdiplokhande1595&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&title=Commits,Repositories,PullRequest,Followers,Stars,Experience)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dhammdip-Lokhande1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&title=Commits,Repositories,PullRequest,Followers,Stars,Experience)
 
 </div>
 
@@ -96,7 +96,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhammdiplokhande1595&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhammdip-Lokhande1&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
