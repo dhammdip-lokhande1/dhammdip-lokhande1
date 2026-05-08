@@ -1,4 +1,3 @@
-# dhammdiplokhande1
 <div align="center">
 
 <!-- Animated Header Banner -->
